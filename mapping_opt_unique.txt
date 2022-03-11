@@ -1,0 +1,1 @@
+bowtie -v 1 -m 1 --best --strata -S --sam-nohead

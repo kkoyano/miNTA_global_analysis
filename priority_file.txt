@@ -1,0 +1,8 @@
+mirna
+tRf
+piRNA
+rRNA
+SNORNA
+URNA
+Y_RNA
+RFam

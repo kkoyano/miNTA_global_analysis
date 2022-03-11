@@ -1,0 +1,4 @@
+/u/home/k/kkoyano/nobackup-gxxiao3/annotations/mirbase/hg19.gff3.mature.mirs-for_parse.bowtie.py.txt
+/u/home/k/kkoyano/nobackup-gxxiao3/annotations/pirnabank/hsa_piRNABank_hg18.to.hg19liftover.txt
+/u/home/k/kkoyano/nobackup-gxxiao3/annotations/rna.genes/reformat.rfam.human.nomirna.notrna.txt
+/u/home/k/kkoyano/nobackup-gxxiao3/annotations/hg19/tRfdb/tRfs_all_annotation.bed

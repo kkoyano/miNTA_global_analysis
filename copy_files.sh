@@ -1,0 +1,15 @@
+cp /u/nobackup/gxxiao3/kkoyano/scripts/trimming_pipeline/NTE_trimming_pipeline.V4.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/scripts/get.reads.overlap.long_annotation.V9.trimming.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/filter_RepeatMasker.fromSAM.sh .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/psl_to_bed_best_score.pl .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/NTE_sam_to_bed.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/apply_BLAT_stringency.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/scripts/mismatch_profile/get_canonical_species.py .
+cp /u/nobackup/gxxiao3/kkoyano/scripts/mismatch_profile/make_anno_overlap_summary_ntes.py .
+cp /u/nobackup/gxxiao3/kkoyano/scripts/mismatch_profile/filter_nte_snps.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/filter_unannotated_SNPs.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/scripts/mismatch_profile/filter_phred_score.V2.py .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/nte_global_analysis_2017-09/unique_reads/scripts/get_credible_modifications-2.sh .
+cp /u/home/k/kkoyano/nobackup-gxxiao3/scripts/mismatch_profile/filter_credible_modifications.py .
+cp /u/nobackup/gxxiao3/kkoyano/scripts/mismatch_profile/summarize_mir_ntes.py .
+cp /u/nobackup/gxxiao3/kkoyano/scripts/mismatch_profile/internal_mutations_profile.py .
